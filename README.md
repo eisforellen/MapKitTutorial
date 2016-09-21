@@ -1,2 +1,0 @@
-# MapKitTutorial
-Completed tutorial utilizing MKLocalSearchRequest and UISearchController
